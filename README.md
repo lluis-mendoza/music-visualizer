@@ -1,7 +1,7 @@
 # Music-visualizer
 
-Music visualizer using OpenGL and C++.
-Using SDL2 for audio play and FFTW3 for Fourier Transformation.
+  - Music visualizer using OpenGL and C++.
+  - Using SDL2 for audio play and FFTW3 for Fourier Transformation.
 
 ## Example
 
@@ -11,6 +11,7 @@ More examples are in the [Example folder](https://github.com/lluis-mendoza/music
 
 ## Build requirements
 
-* OpenGL libraries: glm, glew, glu.
-* SDL2
-* FFTW3
+* glm: https://github.com/g-truc/glm
+* glew: http://glew.sourceforge.net/
+* SDL2: https://wiki.libsdl.org/Installation
+* FFTW3: http://www.fftw.org/download.html
